@@ -2,7 +2,7 @@
 
 I don't code at all so i don't actually know what i'm doing here :sweat_smile:
 
-I write HTML, CSS, Batch, and Just some JS for HTML. I want to learn C#, JS at all, C++,
+I write HTML, CSS, Batch, and Just some JS for HTML. I want to learn C#, JS at all and C++.
 
 My discord is Stif#6969
 
