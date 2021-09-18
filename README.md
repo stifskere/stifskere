@@ -6,10 +6,10 @@ I write HTML, CSS, Batch, and Just some JS for HTML. I want to learn C#, JS at a
 
 My discord is Stif#6969
 
-I like to build computers too
+- I like to build computers
+- I like cats
+- I like cars
 
-Also
+And also
 
 I'm no one
-
-And... I don't know.
