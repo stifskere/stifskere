@@ -2,12 +2,14 @@
 
 I don't code at all so i don't actually know what i'm doing here :sweat_smile:
 
-I want to learn how to code c# and JS
+I write HTML, CSS, Batch, and Just some JS for HTML. I want to learn C#, JS at all, C++,
 
-My discord is stif#6969
+My discord is Stif#6969
+
+I like to build computers too
 
 Also
 
 I'm no one
 
-And... I don't know
+And... I don't know.
