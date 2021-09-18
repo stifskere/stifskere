@@ -1,6 +1,4 @@
-# readme
-
-Hi, i'm stif.... Just that
+### Hi :wave:, i'm stif.... Just that 
 
 I don't code at all so i don't actually know what i'm doing here :sweat_smile:
 
