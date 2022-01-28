@@ -2,7 +2,9 @@
 
 I'm learning to code, slowly but surely :sweat_smile:
 
-I write HTML, CSS, Batch, and Just some JS for Web developement and DISCORD.JS. I want to learn C#, JS at all and C++.
+I mainly write JS, i like JS, i can write html and css too, i guess i'm a web developer :D
+
+even tho, still learning.
 
 My discord is Mewa#6969
 
