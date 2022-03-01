@@ -12,3 +12,5 @@ My discord is Mewa#6969
 - I like cats 🐱
 - I like cars 🚙
 - I also like coding 😄
+
+![image](https://github.com/stifskere/stifskere/blob/main/dino.gif)
