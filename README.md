@@ -1,5 +1,7 @@
 ### Hi :wave:, i'm stif.... Just that 
 
+![image](https://github.com/stifskere/stifskere/blob/main/dino.gif)
+
 I'm learning to code, slowly but surely :sweat_smile:
 
 I mainly write JS, i like JS, i can write html and css too, i guess i'm a web developer :D
@@ -12,5 +14,3 @@ My discord is Mewa#6969
 - I like cats 🐱
 - I like cars 🚙
 - I also like coding 😄
-
-![image](https://github.com/stifskere/stifskere/blob/main/dino.gif)
