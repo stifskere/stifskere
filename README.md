@@ -1,10 +1,11 @@
+ 
 ### Hi :wave:, i'm stif.... Just that 
-
 <br>
 <div align="center">
   <img src="https://github.com/stifskere/stifskere/blob/main/dino.gif"/>
-</div><br><br>
-
+</div>
+<br>
+<br>
 I'm learning to code, slowly but surely :sweat_smile:
 
 I mainly write JS, i like JS, i can write html and css too, i guess i'm a web developer :D
@@ -17,8 +18,20 @@ My discord is <a href="https://discordapp.com/users/463986224101588992/">Mewa#69
 - I like cats 🐱
 - I like cars 🚙
 - I also like coding 😄
-
 <br>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stifskere&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<table>
+<tr>
+  <td>
+<div>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=stifskere&repo=basicmodbot&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
+    </td>
+  <td>
+    <div>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=stifskere&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
+    </td>
+  </tr>
+  
+  
