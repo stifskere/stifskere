@@ -20,18 +20,8 @@ My discord is <a href="https://discordapp.com/users/463986224101588992/">Mewa#69
 - I also like coding 😄
 <br>
 
-<table>
-<tr>
-  <td>
-<div>
+<div align="center">
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=stifskere&repo=basicmodbot&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=stifskere&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
-    </td>
-  <td>
-    <div>
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=stifskere&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
-    </td>
-  </tr>
-  
   
