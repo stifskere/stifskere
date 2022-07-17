@@ -1,16 +1,26 @@
  
-### Hi :wave:, i'm stif.... Just that 
+### Hi :wave:, i'm stif....
 <br>
 <div align="center">
-  <img src="https://github.com/stifskere/stifskere/blob/main/dino.gif"/>
+  <img src="https://user-images.githubusercontent.com/79871802/179410885-50c2d654-92dc-4e73-a646-c39e75bb55d7.png"/>
 </div>
 <br>
 <br>
 I'm learning to code, slowly but surely :sweat_smile:
 
-I mainly write JS, i like JS, i can write html and css too, i guess i'm a web developer :D
+---
 
-even tho, still learning.
+**My tech stack**
+
+JS, TS and C# Junior developer
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="csharp" src="https://user-images.githubusercontent.com/79871802/179404377-476689dd-047a-4d78-9ac0-c17c423ca0e8.svg"></code>    
+
+---
 
 My discord is <a href="https://discordapp.com/users/463986224101588992/">Mewa#6969</a>
 
@@ -18,7 +28,10 @@ My discord is <a href="https://discordapp.com/users/463986224101588992/">Mewa#69
 - I like cats 🐱
 - I like cars 🚙
 - I also like coding 😄
-<br>
+
+---
+
+ㅤㅤㅤㅤㅤㅤㅤㅤ**My main project is** ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**My github stats**
 
 <div align="center">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=stifskere&repo=basicmodbot&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
