@@ -34,7 +34,7 @@ My discord is <a href="https://discordapp.com/users/463986224101588992/">Mewa#69
 ㅤㅤㅤㅤㅤㅤㅤㅤ**My main project is** ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**My github stats**
 
 <div align="center">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=stifskere&repo=basicmodbot&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=stifskere&repo=FramePasteBot&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=stifskere&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
   
