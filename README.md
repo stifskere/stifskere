@@ -1,12 +1,13 @@
  
-### Hi :wave:, i'm stif....
+### Hi :wave:, i'm stif...
+you can also call me memw
 <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/79871802/179410885-50c2d654-92dc-4e73-a646-c39e75bb55d7.png"/>
 </div>
 <br>
 <br>
-I'm learning to code, slowly but surely :sweat_smile:
+I'm a beginer coder :sweat_smile:
 
 ---
 
@@ -22,7 +23,7 @@ Currently learning JS, TS and C#
 
 ---
 
-My discord is <a href="https://discordapp.com/users/463986224101588992/">Mewa#6969</a>
+My discord is <a href="https://discordapp.com/users/463986224101588992/">Memw#6969</a>
 
 - I like to build computers 🖥️
 - I like cats 🐱
@@ -34,7 +35,7 @@ My discord is <a href="https://discordapp.com/users/463986224101588992/">Mewa#69
 ㅤㅤㅤㅤㅤㅤㅤㅤ**My main project is** ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**My github stats**
 
 <div align="center">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=stifskere&repo=FramePasteBot&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=stifskere&repo=betterconsolet&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=stifskere&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
   
