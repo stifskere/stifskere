@@ -1,7 +1,4 @@
-<html lang="en">
-    <head>
-        <title>Hey, I'm Memw</title>
-        <style>
+<style>
             @import url('https://fonts.cdnfonts.com/css/cascadia-code');
             @import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
             @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
@@ -73,7 +70,6 @@
                 background-size: cover;
                 margin: 5vh 0;
                 padding: 0;
-
             }
             .memwWeb h1 {
                 font-size: 3em;
@@ -109,45 +105,40 @@
                 margin: 0 1vw;
                 border-radius: 8px;
             }
-        </style>
-    </head>
-    <body>
-        <div class="mainCode">
-            <div class="command">
-                <p class="commandInstruction"><span class="commandPre">memw@github-readme:~$</span> ./userinfo</p>
-                <div class="commandResponse">
-                    <pre class="intro">
+</style>
+<div class="mainCode">
+<div class="command">
+<p class="commandInstruction"><span class="commandPre">memw@github-readme:~$</span> ./userinfo</p>
+<div class="commandResponse">
+<pre class="intro">
     __  ___
    /  |/  /__  ____ ___ _      __       Hello, I'm Esteve, a 17-year-old
   / /|_/ / _ \/ __ `__ \ | /| / /       full-stack web developer. utilizing a
  / /  / /  __/ / / / / / |/ |/ /        diverse skill set that includes languages
 /_/  /_/\___/_/ /_/ /_/|__/|__/         such as C#, TypeScript, Python, and C++
-                    </pre>
-                </div>
-            </div>
-            <div class="command">
-                <p class="commandInstruction"><span class="commandPre">memw@github-readme:~$</span><span class="cursor"> &block;</span></p>
-            </div>
-        </div>
-        <div class="featured">
-            <!-- linear-gradient(145deg, rgb(35, 35, 35) 0%, rgb(17, 17, 17) 30%, rgba(0, 0, 0, 1) 100%) no-repeat; -->
-            <div class="memwWebParent featuredPanel">
-                <div class="memwWeb">
-                    <h1>MEMW</h1>
-                    <p>Read more about me.</p>
-                </div>
-            </div>
-            <div class="memwLib featuredPanel">
-                <pre>
+</pre>
+</div>
+</div>
+<div class="command">
+<p class="commandInstruction"><span class="commandPre">memw@github-readme:~$</span><span class="cursor"> &block;</span></p>
+</div>
+</div>
+<div class="featured">
+<!-- linear-gradient(145deg, rgb(35, 35, 35) 0%, rgb(17, 17, 17) 30%, rgba(0, 0, 0, 1) 100%) no-repeat; -->
+<div class="memwWebParent featuredPanel">
+<div class="memwWeb">
+<h1>MEMW</h1>
+<p>Read more about me.</p>
+</div>
+</div>
+<div class="memwLib featuredPanel">
+<pre>
 <span class="codeModifier">public static class</span> <span class="codeMemberName">MemwLib</span>
 {
-    <span class="codeModifier">public static string</span> Description
-            <span class="codeOperator">=</span> <span class="codeString">"Another utils library for c#"</span>;
+<span class="codeModifier">public static string</span> Description
+<span class="codeOperator">=</span> <span class="codeString">"Another utils library for c#"</span>;
 }
-                </pre>
-            </div>
-        </div>
-        <div class="coolBackground"></div>
-    </body>
-</html>
-
+</pre>
+</div>
+</div>
+<div class="coolBackground"></div>
