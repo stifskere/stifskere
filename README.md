@@ -5,7 +5,7 @@
     <img align="top" width="49%" src="https://github.com/stifskere/stifskere/assets/79871802/8ff72780-73c1-4038-929f-e2e9841f835e"/>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;
 <div align="center">
-  <img align="top" width="49.5%" height="250vh" src="https://github.com/stifskere/stifskere/assets/79871802/3fff4438-d03c-48f4-9caf-a6e3eb6f0100">
-  <img align="top" width="49.5%" height="250vh" src="https://github.com/stifskere/stifskere/assets/79871802/3fff4438-d03c-48f4-9caf-a6e3eb6f0100">
+  <img align="top" width="49%" height="250vh" src="https://github.com/stifskere/stifskere/assets/79871802/3fff4438-d03c-48f4-9caf-a6e3eb6f0100">
+  <img align="top" width="49%" height="250vh" src="https://github.com/stifskere/stifskere/assets/79871802/3fff4438-d03c-48f4-9caf-a6e3eb6f0100">
 </div>
 </div>
