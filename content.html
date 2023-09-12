@@ -1,4 +1,7 @@
-<style>
+<html lang="en">
+    <head>
+        <title>Hey, I'm Memw</title>
+        <style>
             @import url('https://fonts.cdnfonts.com/css/cascadia-code');
             @import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
             @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
@@ -17,7 +20,6 @@
                 flex-direction: column;
                 margin: 1vh 1vw;
                 padding: 1vh 1vw;
-                border-radius: 8px;
             }
             .command, .commandInstruction {
                 margin: 0.5vh 0 0;
@@ -57,7 +59,6 @@
             }
             .featuredPanel {
                 flex: 1 1 0;
-                border-radius: 8px;
             }
             .memwWebParent {
                 background: linear-gradient(145deg, rgb(35, 35, 35) 0%, rgb(17, 17, 17) 50%, rgba(0, 0, 0, 1) 100%) no-repeat;
@@ -99,46 +100,50 @@
                 color: #2ccc8c;
             }
             .coolBackground {
-                height: 30vh;
-                background-repeat: repeat-x;
-                background-image: url("./coolgif.gif");
+                height: 20vh;
+                background: url("./ocean.gif") repeat-x center center fixed;
+                background-size: auto;
                 margin: 0 1vw;
-                border-radius: 8px;
             }
-</style>
-<div class="mainCode">
-<div class="command">
-<p class="commandInstruction"><span class="commandPre">memw@github-readme:~$</span> ./userinfo</p>
-<div class="commandResponse">
-<pre class="intro">
+        </style>
+    </head>
+    <body>
+        <div class="mainCode">
+            <div class="command">
+                <p class="commandInstruction"><span class="commandPre">memw@github-readme:~$</span> ./userinfo</p>
+                <div class="commandResponse">
+                    <pre class="intro">
     __  ___
    /  |/  /__  ____ ___ _      __       Hello, I'm Esteve, a 17-year-old
   / /|_/ / _ \/ __ `__ \ | /| / /       full-stack web developer. utilizing a
  / /  / /  __/ / / / / / |/ |/ /        diverse skill set that includes languages
 /_/  /_/\___/_/ /_/ /_/|__/|__/         such as C#, TypeScript, Python, and C++
-</pre>
-</div>
-</div>
-<div class="command">
-<p class="commandInstruction"><span class="commandPre">memw@github-readme:~$</span><span class="cursor"> &block;</span></p>
-</div>
-</div>
-<div class="featured">
-<!-- linear-gradient(145deg, rgb(35, 35, 35) 0%, rgb(17, 17, 17) 30%, rgba(0, 0, 0, 1) 100%) no-repeat; -->
-<div class="memwWebParent featuredPanel">
-<div class="memwWeb">
-<h1>MEMW</h1>
-<p>Read more about me.</p>
-</div>
-</div>
-<div class="memwLib featuredPanel">
-<pre>
+                    </pre>
+                </div>
+            </div>
+            <div class="command">
+                <p class="commandInstruction"><span class="commandPre">memw@github-readme:~$</span><span class="cursor"> &block;</span></p>
+            </div>
+        </div>
+        <div class="featured">
+            <!-- linear-gradient(145deg, rgb(35, 35, 35) 0%, rgb(17, 17, 17) 30%, rgba(0, 0, 0, 1) 100%) no-repeat; -->
+            <div class="memwWebParent featuredPanel">
+                <div class="memwWeb">
+                    <h1>MEMW</h1>
+                    <p>Read more about me.</p>
+                </div>
+            </div>
+            <div class="memwLib featuredPanel">
+                <pre>
 <span class="codeModifier">public static class</span> <span class="codeMemberName">MemwLib</span>
 {
-<span class="codeModifier">public static string</span> Description
-<span class="codeOperator">=</span> <span class="codeString">"Another utils library for c#"</span>;
+    <span class="codeModifier">public static string</span> Description
+            <span class="codeOperator">=</span> <span class="codeString">"Another utils library for c#"</span>;
 }
-</pre>
-</div>
-</div>
-<div class="coolBackground"></div>
+                </pre>
+            </div>
+        </div>
+        <div class="coolBackground"></div>
+    </body>
+</html>
+
