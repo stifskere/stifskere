@@ -1,11 +1,9 @@
-<div align="center" height="25vh">
-<img width="100%" src="https://github.com/stifskere/stifskere/assets/79871802/355733d3-d0e0-401c-b4ab-d075f0c4f9f0">
-<div align="center" height="25vh">
-    <img align="top" width="48%" src="https://github.com/stifskere/stifskere/assets/79871802/a9921c34-2200-4639-996f-f7978e896a07"/>&nbsp;&nbsp;&nbsp;
-    <img align="top" width="48%" src="https://github.com/stifskere/stifskere/assets/79871802/8ff72780-73c1-4038-929f-e2e9841f835e"/>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;
-<div align="center">
-  <img align="top" width="49%" height="250vh" src="https://github.com/stifskere/stifskere/assets/79871802/3fff4438-d03c-48f4-9caf-a6e3eb6f0100">
-  <img align="top" width="49%" height="250vh" src="https://github.com/stifskere/stifskere/assets/79871802/3fff4438-d03c-48f4-9caf-a6e3eb6f0100">
-</div>
-</div>
+![banner](https://github.com/stifskere/stifskere/assets/79871802/b314b2f0-c9f4-4250-8b8c-28d0dff9888c)
+
+# Hello, Hola, Привет 👋
+
+I'm Esteve a 18 year old 'everything' developer, I like to code from web applications to desktop applications including plugins for existing applications to completly new applications.
+
+I usually code in REACT.JS, Typescript, C#, and C++, and ocasionally in Python, Java and many more. But I'm always looking to find new knowledge and I always like to find new projects and challenges.
+
+I like everything related to enginering, cars 🚙, coding 💻, aircrafts ✈️ and I'm always curious on the unknown 🌃.
