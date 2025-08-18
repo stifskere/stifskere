@@ -14,7 +14,7 @@ Fluent in **English, Spanish**, conversational in **Russian**.
 
 ## 🤝 Repositories I'm Collaborating On
 - **[FlakySL/atern]**: An **[Albemic] implementation in rust**, aiming for an **agnostic CI/CD compatible** alternative.
-- **[rust-lang/rust]**: A repository I plan to contribute further over time, **now working on [#144032](rust-contribution)**
+- **[rust-lang/rust]**: A repository I plan to contribute further over time, **now working on [#144032][rust-contribution]**
 
 ## 🔧 Repositories I'm Maintaining
 - **[FlakySL/dyn_path]**: A simple **`macro_rules!` crate** that aims for easier **access on nested `Option<T>` values**.
