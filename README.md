@@ -28,7 +28,7 @@ Fluent in **English, Spanish**, conversational in **Russian**.
 - **[Open Source Inquiries](mailto:oss@memw.es)**: An open source concerns email, contact about project licensing and collaboration.
 
 **Call Or Text Me**
-- **[+34 611 080 006](tel:+34611080006)**: Available from **10:00** to **17:00**, Available for business inquiries **phone protected by anti-spam measures**.
+- **[+34 611 080 006](tel:611080006)**: Available from **10:00** to **17:00**, Available for business inquiries **phone protected by anti-spam measures**.
 
 **Find me on internet**
 - **[linkedin]**: WIP LinkedIn account, you can use it to contact me, currently working on posting more often.
