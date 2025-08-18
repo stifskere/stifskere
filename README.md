@@ -40,6 +40,8 @@ Fluent in **English, Spanish**, conversational in **Russian**.
 [FlakySL/atern]: https://github.com/FlakySL/atern
 [rust-lang/rust]: https://github.com/rust-lang/rust
 
+[FlakySL/dyn_path]: https://github.com/FlakySL/dyn_path
+
 [ArgoCD]: https://argoproj.github.io/cd/
 [Kubernetes]: https://kubernetes.io/
 [actix-web]: https://actix.rs/
