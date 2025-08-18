@@ -12,13 +12,9 @@ Fluent in **English, Spanish**, conversational in **Russian**.
 - **[FlakySL/translatable]**: A macro-based Rust **translation framework** that allows for **collaborative project translation**.
 - **[FlakySL/actix_failwrap]**: A Rust **[actix-web] [thiserror] integration** to work with **error propagation**.
 
----
-
 ## 🤝 Repositories I'm Collaborating On
 - **[FlakySL/atern]**: An **[Albemic] implementation in rust**, aiming for an **agnostic CI/CD compatible** alternative.
 - **[rust-lang/rust]**: A repository I plan to contribute further over time, **now working on [#144032](rust-contribution)**
-
----
 
 ## 🔧 Repositories I'm Maintaining
 - **[FlakySL/dyn_path]**: A simple **`macro_rules!` crate** that aims for easier **access on nested `Option<T>` values**.
@@ -32,10 +28,10 @@ Fluent in **English, Spanish**, conversational in **Russian**.
 - **[Open Source Inquiries](mailto:oss@memw.es)**: An open source concerns email, contact about project licensing and collaboration.
 
 **Call Or Text Me**
-- **[+34 611 080 006]**: Available from **10:00** to **17:00**, Available for business inquiries **phone protected by anti-spam measures**.
+- **[+34 611 080 006](tel:+34611080006)**: Available from **10:00** to **17:00**, Available for business inquiries **phone protected by anti-spam measures**.
 
 **Find me on internet**
-- [linkedin]: WIP LinkedIn account, you can use it to contact me, currently working on posting more often.
+- **[linkedin]**: WIP LinkedIn account, you can use it to contact me, currently working on posting more often.
 
 [stifskere/keightit]: https://github.com/stifskere/keightit
 [FlakySL/translatable]: https://github.com/FlakySL/translatable
