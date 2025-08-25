@@ -5,12 +5,13 @@
 **Rust systems and web developer** focused on building reliable systems and tools.
 Fluent in **English, Spanish**, conversational in **Russian**.
 
+**OpenPGP/GPG (RSA4096):** `1BEC41F9C5CF722728738C68243CC004321EA11C`
+
 ---
 
 ## 🛠️ Repositories I'm Working On
 - **[stifskere/keightit]**: A **continuous deployment [ArgoCD] based platform** that aims for a **UI first [Kubernetes] deployment experience**.
 - **[FlakySL/translatable]**: A macro-based Rust **translation framework** that allows for **collaborative project translation**.
-- **[FlakySL/actix_failwrap]**: A Rust **[actix-web] [thiserror] integration** to work with **error propagation**.
 
 ## 🤝 Repositories I'm Collaborating On
 - **[FlakySL/atern]**: An **[Albemic] implementation in rust**, aiming for an **agnostic CI/CD compatible** alternative.
@@ -18,6 +19,8 @@ Fluent in **English, Spanish**, conversational in **Russian**.
 
 ## 🔧 Repositories I'm Maintaining
 - **[FlakySL/dyn_path]**: A simple **`macro_rules!` crate** that aims for easier **access on nested `Option<T>` values**.
+- **[FlakySL/actix_failwrap]**: A Rust **[actix-web] [thiserror] integration** to work with **error propagation**.
+
 
 ---
 
