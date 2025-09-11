@@ -3,7 +3,7 @@
 # Hi, I'm Memw 👋
 
 **Rust systems and web developer** focused on building reliable systems and tools.
-Fluent in **English, Spanish**, conversational in **Russian**.
+Fluent in **Catalan, English, Spanish**, conversational in **Russian**.
 
 **OpenPGP/GPG (RSA4096):** `1BEC41F9C5CF722728738C68243CC004321EA11C`
 
