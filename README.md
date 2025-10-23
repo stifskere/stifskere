@@ -35,14 +35,14 @@ Fluent in **Catalan, English, Spanish**, conversational in **Russian**.
 **Find me on internet**
 - **[linkedin]**: WIP LinkedIn account, you can use it to contact me, currently working on posting more often.
 
-[stifskere/keightit]: https://github.com/stifskere/keightit
-[FlakySL/translatable]: https://github.com/FlakySL/translatable
-[FlakySL/actix_failwrap]: https://github.com/FlakySL/actix_failwrap
+[stifskere/reddyt]: https://github.com/stifskere/reddyt
+[CanvaDot/\*]: https://github.com/Canvadot
 
 [FlakySL/atern]: https://github.com/FlakySL/atern
 [rust-lang/rust]: https://github.com/rust-lang/rust
 
 [FlakySL/dyn_path]: https://github.com/FlakySL/dyn_path
+[FlakySL/actix_failwrap]: https://github.com/FlakySL/actix_failwrap
 
 [ArgoCD]: https://argoproj.github.io/cd/
 [Kubernetes]: https://kubernetes.io/
