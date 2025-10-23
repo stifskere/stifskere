@@ -10,11 +10,10 @@ Fluent in **Catalan, English, Spanish**, conversational in **Russian**.
 ---
 
 ## 🛠️ Repositories I'm Working On
-- **[stifskere/keightit]**: A **continuous deployment [ArgoCD] based platform** that aims for a **UI first [Kubernetes] deployment experience**.
-- **[FlakySL/translatable]**: A macro-based Rust **translation framework** that allows for **collaborative project translation**.
+- **[stifskere/reddyt]**: **Self-hosted AI Reddit-style Q&A video generator**. reddyt uses Gemini to create posts and answers, narrates them, builds videos with FFMPEG, and uploads to YouTube via OAuth-linked profiles.
+- **[CanvaDot/\*]**: A **real-time collaborative canvas** where creativity meets chaos. **Draw, create, and compete with others** using role-based rewards, custom mouse skins, and unique abilities.
 
 ## 🤝 Repositories I'm Collaborating On
-- **[FlakySL/atern]**: An **[Albemic] implementation in rust**, aiming for an **agnostic CI/CD compatible** alternative.
 - **[rust-lang/rust]**: A repository I plan to contribute further over time, **now working on [#144032][rust-contribution]**
 
 ## 🔧 Repositories I'm Maintaining
