@@ -7,48 +7,8 @@ Fluent in **Catalan, English, Spanish**, conversational in **Russian**.
 
 **OpenPGP/GPG (RSA4096):** `1BEC41F9C5CF722728738C68243CC004321EA11C`
 
----
-
-## 🛠️ Repositories I'm Working On
-- **[stifskere/reddyt]**: **Self-hosted AI Reddit-style Q&A video generator**. reddyt uses Gemini to create posts and answers, narrates them, builds videos with FFMPEG, and uploads to YouTube via OAuth-linked profiles.
-- **[CanvaDot/\*]**: A **real-time collaborative canvas** where creativity meets chaos. **Draw, create, and compete with others** using role-based rewards, custom mouse skins, and unique abilities.
-
-## 🤝 Repositories I'm Collaborating On
-- **[rust-lang/rust]**: A repository I plan to contribute further over time, **now working on [#144032][rust-contribution]**
-
-## 🔧 Repositories I'm Maintaining
-- **[FlakySL/dyn_path]**: A simple **`macro_rules!` crate** that aims for easier **access on nested `Option<T>` values**.
-- **[FlakySL/actix_failwrap]**: A Rust **[actix-web] [thiserror] integration** to work with **error propagation**.
-
-
----
-
 ## 📬 Contact
 
 **Send Me An Email**
 - **[Business Concerns](mailto:esteve@memw.es)**: A general concerns email, contact me for business or questions.
 - **[Open Source Inquiries](mailto:oss@memw.es)**: An open source concerns email, contact about project licensing and collaboration.
-
-**Call Or Text Me**
-- **[+34 611 080 006](tel:611080006)**: Available from **10:00** to **17:00**, Available for business inquiries **phone protected by anti-spam measures**.
-
-**Find me on internet**
-- **[linkedin]**: WIP LinkedIn account, you can use it to contact me, currently working on posting more often.
-
-[stifskere/reddyt]: https://github.com/stifskere/reddyt
-[CanvaDot/\*]: https://github.com/Canvadot
-
-[FlakySL/atern]: https://github.com/FlakySL/atern
-[rust-lang/rust]: https://github.com/rust-lang/rust
-
-[FlakySL/dyn_path]: https://github.com/FlakySL/dyn_path
-[FlakySL/actix_failwrap]: https://github.com/FlakySL/actix_failwrap
-
-[ArgoCD]: https://argoproj.github.io/cd/
-[Kubernetes]: https://kubernetes.io/
-[actix-web]: https://actix.rs/
-[thiserror]: https://docs.rs/thiserror/latest/thiserror/
-[Albemic]: https://alembic.sqlalchemy.org/en/latest/
-[rust-contribution]: https://github.com/rust-lang/rust/issues/144032
-
-[linkedin]: https://linkedin.com/in/memw
