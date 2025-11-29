@@ -7,6 +7,10 @@ Fluent in **Catalan, English, Spanish**, conversational in **Russian**.
 
 **OpenPGP/GPG (RSA4096):** `1BEC41F9C5CF722728738C68243CC004321EA11C`
 
+I am currently working on [reddyt](https://github.com/stifskere/reddyt), the other repositories
+are maintained on a "when I have time" basis, but I am personally eager to finish this. It will
+probably have a change of name, so stay tunned.
+
 ## 📬 Contact
 
 **Send Me An Email**
